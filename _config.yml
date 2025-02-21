@@ -1,5 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
+title: ""
+author: "Sanzida Hossain"
+logo: /assets/img/prof_pic.jpg
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
@@ -16,13 +17,15 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "index.md", title: About me}
+  - {file: "cv.md", title: CV}
+  - {file: "projects.md", title: Projects}
+  - {file: "publications.md", title: Publications}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:sanzida.hossain@okstate.edu"}
+  - {title: Google, icon: google, url: "https://scholar.google.com/citations?user=ytdiw5gAAAAJ&hl=en&authuser=1"}
+  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/sahossa/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/

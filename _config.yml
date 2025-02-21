@@ -1,5 +1,5 @@
 title: ""
-author: "Sanzida Hossain"
+author: "Nahid Uzzaman"
 logo: /assets/img/prof_pic.jpg
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
@@ -23,9 +23,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "publications.md", title: Publications}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:sanzida.hossain@okstate.edu"}
-  - {title: Google, icon: google, url: "https://scholar.google.com/citations?user=ytdiw5gAAAAJ&hl=en&authuser=1"}
-  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/sahossa/"}
+  - {title: Mail, icon: envelope, url: "mailto:nahid.uzzaman@okstate.edu"}
+  - {title: Google, icon: google, url: "https://scholar.google.com/citations?hl=en&authuser=1&user=mvOCWv4AAAAJ"}
+  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/nahid-uzzaman-a3a1a0150/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/

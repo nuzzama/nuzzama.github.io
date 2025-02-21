@@ -2,7 +2,7 @@
 layout: page
 title: Sanzida Hossain   
 ---
-![Sanzida](/assets/img/prof_pic2.png)
+![Sanzida](/assets/img/prof_pic.png)
 
 **Ph.D. Candidate, Graduate Research and Teaching Assistant**
 
@@ -14,7 +14,7 @@ title: Sanzida Hossain
 
 **ATRC-324, Stillwater, OK 74078**
 
-**sanzida.hossain@okstate.edu**
+**nahid.uzzaman@okstate.edu**
 
 ## About Me
 Ph.D. student in Mechanical Engineering, at Oklahoma State University. 

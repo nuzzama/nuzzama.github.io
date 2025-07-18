@@ -1,33 +1,19 @@
 ---
 title: Publications
 ---
--	J. Lu, S. Hossain, W. Sheng, and H. Bai, “A Research Testbed for Intelligent and Cooperative Driving in Mixed Traffic”, Under review in IEEE Transactions on Intelligent Transportation Systems, 2024
-  
-  [Paper: A Research Testbed for Intelligent and Cooperative Driving in Mixed Traffic](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ytdiw5gAAAAJ&sortby=pubdate&citation_for_view=ytdiw5gAAAAJ:5nxA0vEk-isC)
--	S. Hossain, J. Lu, H. Bai, and W. Sheng, “Incorporating Stochastic Human Driving States in Cooperative Driving Between a Human-Driven Vehicle and an Autonomous Vehicle”, 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Detroit, Michigan, 2023
+-	N. Uzzaman and H. Bai, "A novel variational Bayesian adaptive Kalman filter for systems with unknown state-dependent noise covariance matrices," 2024 American Control Conference (ACC), Toronto, ON, Canada, 2024, pp. 1192-1197, doi: 10.23919/ACC60939.2024.10644401.
+  [Paper: A Research Testbed for Intelligent and Cooperative Driving in Mixed Traffic](https://ieeexplore.ieee.org/abstract/document/10644401/)
+-	N. Uzzaman and H. Bai, "Dynamic covariance prediction using variational Wishart processes with uncertain inputs," 2023 American Control Conference (ACC), San Diego, CA, USA, 2023, pp. 125-130, doi: 10.23919/ACC55779.2023.10155969.
+  [Paper: Dynamic covariance prediction using variational Wishart processes with uncertain inputs](https://ieeexplore.ieee.org/abstract/document/10155969/)
+-	W. N. White, E. Patterson and N. Uzzaman, “A Voltage Control Paradigm for Economic Brushless DC Motor Control,” 2020 American Control Conference (ACC), Denver, CO, USA, 2020, pp. 4289-4294, doi: 10.23919/ACC45564.2020.9147439.
+  [Paper: A Voltage Control Paradigm for Economic Brushless DC Motor Control](https://ieeexplore.ieee.org/abstract/document/9147439/)
 
- 	[Paper: Incorporating Stochastic Human Driving States in Cooperative Driving Between a Human-Driven Vehicle and an Autonomous Vehicle](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ytdiw5gAAAAJ&sortby=pubdate&citation_for_view=ytdiw5gAAAAJ:0EnyYjriUFMC)
--	S. Hossain, J. Lu, H. Bai, and W. Sheng, “Cooperative driving between autonomous vehicles and human-driven vehicles considering stochastic human input and system delay,” in 2023 European Control Conference (ECC), 2023
-
- 	[Paper: Cooperative driving between autonomous vehicles and human-driven vehicles considering stochastic human input and system delay](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ytdiw5gAAAAJ&sortby=pubdate&citation_for_view=ytdiw5gAAAAJ:hqOjcs7Dif8C)
--	J. Lu, S. Hossain, W. Sheng, and H. Bai, “Cooperative driving in mixed traffic of manned and unmanned vehicles based on human driving behavior understanding,” in 2023 IEEE International Conference on Robotics and Automation (ICRA), 2023
-
- 	[Paper: Cooperative driving in mixed traffic of manned and unmanned vehicles based on human driving behavior understanding](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ytdiw5gAAAAJ&sortby=pubdate&citation_for_view=ytdiw5gAAAAJ:eQOLeE2rZwMC)
--	S. Hossain, J. Lu, H. Bai, and W. Sheng, “Stochastic model predictive control for coordination of autonomous and human-driven vehicles”, 4th IFAC Workshop on Cyber-Physical and Human Systems CPHS 2022
-
- 	[Paper: Stochastic model predictive control for coordination of autonomous and human-driven vehicles](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ytdiw5gAAAAJ&sortby=pubdate&citation_for_view=ytdiw5gAAAAJ:YsMSGLbcyi4C)
--	J. Lu, R. Stracener, W. Sheng, H. Bai, and S. Hossain, “Development of a Research Testbed for Cooperative Driving in Mixed Traffic of Human-driven and Autonomous Vehicles”, 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022
-
- 	[Paper: Development of a Research Testbed for Cooperative Driving in Mixed Traffic of Human-driven and Autonomous Vehicles](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ytdiw5gAAAAJ&sortby=pubdate&citation_for_view=ytdiw5gAAAAJ:Y0pCki6q_DkC)
--	C. Lare, W. N. White and S. Hossain, “Motion Equations for the Ball and Beam and the Ball and Arc Systems.” ASME. J. Dyn. Sys., Meas., Control. December 2019; 141(12): 121006. https://doi.org/10.1115/1.4044619
-
- 	[Paper: Motion Equations for the Ball and Beam and the Ball and Arc Systems](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ytdiw5gAAAAJ&sortby=pubdate&citation_for_view=ytdiw5gAAAAJ:9yKSN-GCB0IC)
 -	M. R. Rashid, N. Uzzaman, S. Hossain and N. K. Das Shuvra, “Development of a self-navigating algorithm for library book finder robot,” 2017 3rd International Conference on Electrical Information and Communication Technology (EICT), 2017
 
- 	[Paper: Development of a self-navigating algorithm for library book finder robot](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ytdiw5gAAAAJ&sortby=pubdate&citation_for_view=ytdiw5gAAAAJ:u5HHmVD_uO8C)
+ 	[Paper: Development of a self-navigating algorithm for library book finder robot](https://ieeexplore.ieee.org/abstract/document/8275140/)
 -	N. Uzzaman, S. Hossain, and A. Hossain, “Geometrical approach for determining the throwing destination of an automatic throwing robot”, IEEE Xplore, 3rd ICEEICT, 2016
 
- 	[Paper: Geometrical approach for determining the throwing destination of an automatic throwing robot](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ytdiw5gAAAAJ&sortby=pubdate&citation_for_view=ytdiw5gAAAAJ:d1gkVwhDpl0C)
+ 	[Paper: Geometrical approach for determining the throwing destination of an automatic throwing robot](https://ieeexplore.ieee.org/abstract/document/7873100/)
 -	N. Uzzaman, S. Hossain, R. Rashid, and A. Hossain, “A comparative analysis between light-dependent and ultrasonic method of gesture recognition”, IEEE Xplore, 3rd ICEEICT, 2016
 
- 	[Paper: A comparative analysis between light-dependent and ultrasonic method of gesture recognition](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ytdiw5gAAAAJ&sortby=pubdate&citation_for_view=ytdiw5gAAAAJ:u-x6o8ySG0sC)
+ 	[Paper: A comparative analysis between light-dependent and ultrasonic method of gesture recognition](https://ieeexplore.ieee.org/abstract/document/7873101/)

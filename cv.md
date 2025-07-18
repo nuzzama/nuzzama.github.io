@@ -1,99 +1,101 @@
 ---
 layout: page
-title: CV of Sanzida Hossain
-Subtitle: sanzida.hossain@okstate.edu
+title: CV of Nahid Uzzaman
+Subtitle: nahid.uzzaman@okstate.edu
 ---
 ## Skills
--	Tools: MATLAB, Simulink, CARLA,	SUMO,	AutoCAD,	Solidworks,	MS office,	Linux,	LabVIEW,	Git,	RSLogix 5000,	Stateflow
--	Programming language: C, C++, MATLAB, Python, Bash
--	Micro-Controller: PIC microcontroller (8 bit), Arduino, STM32 (32 bit)
+-	Kalman Filters: Kalman Filter (KF), Extended Kalman Filter (EKF), Adaptive KF (AKF) with learning covariance from data
+-	Machine Learning: Neural Network (NN), Deep Learning, Gaussian process regression (GPR), Regression, LSTM, RNN, CNN
+-	Classical control theory: PID control, frequency response analysis, Bode plot, Nyquist plot, root locus, feedforward, feedback control, PID tuning, stability margins, second order system, loop shaping, model in loop (MIL), hardware in loop (HIL)
+-	Modern control theory: state space (state matrices), digital control, continuous control, state machine, discrete controller, multivariable control, non-linear systems, linear systems, full state observer, single-input single-output (SISO), multi-input multi-output (MIMO), controllability, observability, LQR, optimal control, optimal state estimation, Kalman filter, extended Kalman filter
+-	Motor control: Permanent magnet brushless DC motor (BLDC), scalar control, vector control, field-oriented control
+-	Tools: MATLAB, Simulink, MATLAB Control System Designer, LabVIEW, AutoCAD, Oscilloscope, Microsoft office
+-	Programming language: MATLAB, Python, C, C++, PyQt GUI development, Bash, Github
+-	Micro-Controller: STM32 (32 bit), PIC (8 bit), Arduino, AVR
+
 
 
 ## Education
 - PhD in Mechanical Engineering | Oklahoma State University (_Aug 2025_)
-- Master of Science in Mechanical Engineering | Kansas State University, Manhattan, KS (_December 2020_)
+- Master of Science in Mechanical Engineering | Kansas State University, Manhattan, KS (_August 2019_)
 - Bachelor of Science in Mechanical Engineering | Military Institute of Science and Technology (MIST), Dhaka, Bangladesh (_January 2016_)
 
 ## Research Experience
-### PhD Research, Oklahoma State University	(_August 2021 – present_)
-**Autonomous vehicle and human driven vehicle cooperation using stochastic model predictive control**             
-Funding agency: National Science Foundation (NSF), Grant: CPS 2212582
--	Investigate the coordination of autonomous vehicles (AVs) and intelligent human vehicles (IHVs) in a connected environment
--	Model the motion of the IHVs considering various uncertainties of the human behavior
--	Optimize control inputs for the AVs and advisory directives for the drivers on the IHVs to coordinate their motions
--	Leverage machine learning approaches and distributed optimization to reduce the computational time of the optimization.
+### PhD Research, Oklahoma State University	(_August 2020 – present_)
+**Multi-model unscented Kalman filter-smoother for wind estimation (_Jan 2024 - Present_)**
+-	Developed a Multiple Model Unscented Kalman Smoother (MM-UKS) algorithm for real-time wind estimation using a quadcopter
+-	Integrated Gaussian Process Regression (GPR) to model drag force uncertainty, enhancing robustness in wind estimation
+-	Analyzed interacting and non-interacting MM-UKS variants, demonstrating trade-offs in accuracy and uncertainty in estimation
 
-### Masters Research, Kansas State University (_August 2017-December 2020_)
-**Under actuated system modeling and nonlinear controller design**
--	Applied Direct Lyapunov Approach, an energy-based nonlinear control approach on underactuated mechanical systems
--	Determined the control law that will stabilize the nonlinear system by solving for the potential from the dynamic PDE
--	Implemented the control law and investigated the response of systems using MATLAB and Simulink simulation
+**Novel adaptive Kalman filter for systems with unknown state-dependent noise covariances (_Jan 2023 - Dec 2023_)**
+-	Developed a variational Bayesian adaptive Kalman filter (VB-AKF) to estimate system states with state-dependent covariances
+-	Variational Bayesian inference of Wishart process is combined with the Kalman filter (KF) to address limitations of traditional KF
+-	Validated VB-AKF through simulations, demonstrating its effectiveness in improving state estimation accuracy
 
-**Motion Equations for the Ball and Beam and the Ball and Arc Systems**
--	Identified that the conventional models consider the ball as a point mass which disregards the kinematics of the ball
--	Modeled the ball and beam and the ball and arc system considering the ball kinematics
--	Introduced dimensionless quantities to the dynamic equations of both systems rendering them in dimensionless form
--	Conducted comparisons between different ball and beam models with this new modified model
+**Predicting uncertainties using machine learning: variational Wishart processes (VWP) (_Aug 2021 - Dec 2022_)**
+-	Developed three novel VWP algorithms for predicting dynamic covariance of datasets with both uncertain input and uncertain output 
+-	Designed variational inference techniques for the VWP utilizing sparse Gaussian process regression (GPR)
+-	Conducted simulations demonstrating superior reliability and accuracy of proposed algorithms through comparative analysis
+
+
+### Masters Research, Kansas State University (_August 2017-August2019_)
+**Comparative analysis between field-oriented control and uncontrolled current operation (_Aug 2017-Aug 2019_)**
+-	Modeled a Brushless dc (BLDC) motor with state-space representation to perform multivariable control of phase currents and torque
+-	Analyzed BLDC motor with field oriented or vector control, reference frame theory and designed PI controller for current control
+-	Developed Simulink simulation of the BLDC motor with and without vector control to find the factors affecting performance
+-	Performed frequency response analysis and found that vector control system has higher bandwidth but the uncontrolled current system has higher delay and stability margins
+-	Tested both systems for speed and position controlling with P, PD and PI controllers and analyzed experimental data in MATLAB
+
+
+**Speed and position control of a brushed motor with flywheel attachment (_2018_)**
+-	Modeled the mechanical and electrical dynamics of the system to design multivariable controllers for speed and position control
+-	Designed PID controllers by adding design constraints (overshoot and settling time) in MATLAB control system designer toolbox
+-	Calculated observer gains and feedback gains for a full state observer for pole placement to achieve required system dynamics
+-	Implemented the designed PID controller and the full state observer in LabVIEW graphical programming to control the actual plant
+-	Connected real-time box to establish communication between plant hardware and LabVIEW and performed HIL control system testing
+-	Used LabVIEW data acquisition (DAQ) process to record plant input and output data and analyzed the controller performance
+
+**Inverted pendulum cart controlling (_2018_)**
+-	Developed non-linear dynamic equations and state-space model of the underactuated inverted pendulum cart with only one actuator
+-	Designed controller and feedback gains in MATLAB from design constraints to stabilize the inverted pendulum with only cart motion
+-	Implemented the controller in LabVIEW and used Bluetooth communication to connect LabVIEW with the hardware
+-	Used LabVIEW DAQ to record system responses and tuned the controller to make the system more robust under disturbances
+
+
 
 ## Professional Experience
-**Graduate Research Assistant, Oklahoma State University, Stillwater, OK (_January 2022- present_)**
--	Formulated autonomous and human-driven vehicle coordination in a connected environment as a mixed integer problem (MIP) using discrete hybrid system automata (DHSA)
--	Designed stochastic model predictive controller (sMPC) to address the uncertainty of human driver behavior
--	Developed a framework for multi vehicle coordination to reach a specified goal in a mixed traffic scenario
--	Simulated the coordination in SUMO vehicle simulation platform to assess the performance of the framework
--	Implemented machine learning techniques to speed up the optimization of the MIP.
--	Designed distributed MIP to decentralize the optimization and speeding up the decision making process
--	Constructed a simulation testbed to facilitate cooperative driving and acquire human driving data.
--	Conducted human in the loop (HITL) experiments to assess the performance of the cooperative driving framework in complex driving scenarios on the developed simulation testbed 
+**Graduate Research Assistant, Oklahoma State University (_Aug 2020-Present_)**
+-	Developed variational Wishart process algorithms to predict dynamic covariance of dataset that has uncertain input and out
+-	Developed a novel variational Bayesian adaptive Kalman filter (VB-AKF) for systems with state-dependent noise covariance matrices
+**Graduate Teaching Assistant, Oklahoma State University (_Aug 2020-Present_)**
+-	Teach Python programming language and application of Python in solving various engineering problems 
+**Research Intern, Kansas State University (_Sep 2019-Jul 2020_)**
+-	Designed affordable lab equipment for an introductory control theory course using a Brushless DC (BLDC) motor
+-	Determined when to replace field-oriented control with uncontrolled current input, cutting costs by eliminating sensors and controllers
+-	Investigated nonlinear friction presence and assessed data quality when nonlinearities were disregarded.
 
-
-**Graduate Teaching Assistant, Oklahoma State University, Stillwater, OK (_August 2021- present_)**
-- Taught courses: Elementary Dynamics, Engineering Design with CAD, Computer Methods in Analysis & Design 
--	Prepared and delivered lab/discussion lectures on related topics
--	Holding office hours to help students understand difficult topics
--	Exam and assignment grading
-
-**Controls Engineer, Intralox LLC, Hannover, MD (_April 2021- July 2021_)**
--	Reviewed design layouts of automatic sorting conveyors in AutoCAD electrical
--	Performed troubleshooting of automatic mail sorting conveyors at USPS and UPS facilities 
--	Development and modification of PLC control algorithms for sorting conveyors
--	Trained on different designs of automatic sorting conveyors developed by Intralox
-
-**Graduate Teaching Assistant, Kansas State University, Manhattan, KS (_August 2017- December 2020_)**
-- Taught course: Classical control theory
--	Delivered lab lectures on related classical control theory topics, such as modeling of dynamic systems and control system design
--	Demonstrated MATLAB coding, Simulink, Control System Designer toolbox and experimental analysis of control systems in the labs
--	Taught how to design PID controllers for dynamic systems with various load conditions
--	Discussed how to validate the model by experimenting, data analyzing and model-data comparing
--	Generated empirical system model and Bode plot from experimented data to predict system behavior in the frequency response domain
-
-**Lecturer, Department of Mechanical Engineering, Military Institute of Science and Technology (MIST), Dhaka, Bangladesh (_March 2016- June 2017_)**
--	Contributed to developing an entire lab course which involved developing lab assignments and handouts for the course
--	Delivered lectures in classes and labs for courses like introduction to mechanical engineering, automobile engineering, mechanical engineering drawing, machine shop, fluid mechanics, etc.
--	Assisted in organizing an international conference, organized by the Department of Mechanical Engineering, MIST
+**Graduate Teaching Assistant, Kansas State University (_Aug 2017-May 2019_)**
+-	Taught classical control techniques, MATLAB coding and debugging and experimental analysis for control system testing
+-	Conducted labs and lectured about related theories such as modeling of dynamic systems and control system design
+-	Demonstrated PID controller designing and obtaining experimental frequency response data to generated empirical bode plots 
+Lecturer of Mechanical Engineering, City University, Bangladesh		          			          July 2016-Apr 2017
+-	Developed and taught Mechanical Engineering courses: Mechanical Engineering Drawing and Drafting, Mechanics of Machinery, Thermodynamics and HVAC, Mechatronics and Robotics.
 
 ## Publications
--	J. Lu, S. Hossain, W. Sheng, and H. Bai, “A Research Testbed for Intelligent and Cooperative Driving in Mixed Traffic”, Under review in IEEE Transactions on Intelligent Transportation Systems, 2024
--	S. Hossain, J. Lu, H. Bai, and W. Sheng, “Incorporating Stochastic Human Driving States in Cooperative Driving Between a Human-Driven Vehicle and an Autonomous Vehicle”, 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Detroit, Michigan, 2023
--	S. Hossain, J. Lu, H. Bai, and W. Sheng, “Cooperative driving between autonomous vehicles and human-driven vehicles considering stochastic human input and system delay,” in 2023 European Control Conference (ECC), 2023
--	J. Lu, S. Hossain, W. Sheng, and H. Bai, “Cooperative driving in mixed traffic of manned and unmanned vehicles based on human driving behavior understanding,” in 2023 IEEE International Conference on Robotics and Automation (ICRA), 2023
--	S. Hossain, J. Lu, H. Bai, and W. Sheng, “Stochastic model predictive control for coordination of autonomous and human-driven vehicles”, 4th IFAC Workshop on Cyber-Physical and Human Systems CPHS 2022
--	J. Lu, R. Stracener, W. Sheng, H. Bai, and S. Hossain, “Development of a Research Testbed for Cooperative Driving in Mixed Traffic of Human-driven and Autonomous Vehicles”, 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022
--	C. Lare, W. N. White and S. Hossain, “Motion Equations for the Ball and Beam and the Ball and Arc Systems.” ASME. J. Dyn. Sys., Meas., Control. December 2019; 141(12): 121006. https://doi.org/10.1115/1.4044619  
--	M. R. Rashid, N. Uzzaman, S. Hossain and N. K. Das Shuvra, “Development of a self-navigating algorithm for library book finder robot,” 2017 3rd International Conference on Electrical Information and Communication Technology (EICT), 2017
--	N. Uzzaman, S. Hossain, and A. Hossain, “Geometrical approach for determining the throwing destination of an automatic throwing robot”, IEEE Xplore, 3rd ICEEICT, 2016
--	N. Uzzaman, S. Hossain, R. Rashid, and A. Hossain, “A comparative analysis between light-dependent and ultrasonic method of gesture recognition”, IEEE Xplore, 3rd ICEEICT, 2016
--	N. Uzzaman, S. Hossain, A. Hossain. “Controlling an Industrial Robotic Arm by Light Dependent Gesture Recognition”, 11th International Conference on Mechanical Engineering (ICME 2015), BUET, Bangladesh
+-	N. Uzzaman and H. Bai, "A novel variational Bayesian adaptive Kalman filter for systems with unknown state-dependent noise covariance matrices," 2024 American Control Conference (ACC), Toronto, ON, Canada, 2024, pp. 1192-1197, doi: 10.23919/ACC60939.2024.10644401. 
+-	N. Uzzaman and H. Bai, "Dynamic covariance prediction using variational Wishart processes with uncertain inputs," 2023 American Control Conference (ACC), San Diego, CA, USA, 2023, pp. 125-130, doi: 10.23919/ACC55779.2023.10155969. 
+-	W. N. White, E. Patterson and N. Uzzaman, “A Voltage Control Paradigm for Economic Brushless DC Motor Control,” 2020 American Control Conference (ACC), Denver, CO, USA, 2020, pp. 4289-4294, doi: 10.23919/ACC45564.2020.9147439.
+
 
 ## Awards and Honors
--	CPHS fellowship award at IFAC Workshop on Cyber-Physical Human Systems, Houston, TX, 2022
--	John Brammer Graduate Research Fellowship, Oklahoma State University, Stillwater, OK, 2021
--	Dean’s list of honor for undergraduate academic performance, Military Institute of Science and Technology, Bangladesh, 2016
--	Commandant’s (University President’s) list of honor of the year for academic performance, Military Institute of Science and Technology, Bangladesh, 2015
--	Champion, Project competition, ESONANCE 2014 (powered by Electrical Engineering Dept.), Islamic University of Technology, Bangladesh
--	Champion, Project competition, MECCELERATION 2014 (powered by Mechanical Engineering Dept.), Islamic University of Technology, Bangladesh
--	Best project award, Faculty of ME, Military Institute of Science and Technology, Bangladesh, 2014
--	Dean’s list of honor of the year for academic performance, Military Institute of Science and Technology, Bangladesh, 2013
+-	MIST Commandant’s list of honor for academic excellence,2015
+-	3rd position, Mechatronic project competition, ICEEICT, Jahangir Nagar University, Bangladesh,2015
+-	Best project award, Faculty of ME, Military Institute of Science and Technology (MIST), Bangladesh,2014
+-	Champion, ME Mechatronic project competition, Islamic University of Technology, Bangladesh, Sept 2014
+-	Champion, EE Mechatronic project competition, Islamic University of Technology, Bangladesh, June 2014
+-	MIST Commandant’s list of honor for academic excellence, 2013
+
+
 
 
 

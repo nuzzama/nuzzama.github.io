@@ -3,7 +3,7 @@ title: Project Works
 ---
 ## Cooperative Driving in Heterogeneous Traffic of Manned and Unmanned Vehicles (_Present_)      
 
-![Coop project](/assets/img/coop_proj.png)
+![Coop project](/assets/img/Nahid.gif)
 
 **Funding agency: National Science Foundation (NSF), Grant: 1925147**
 

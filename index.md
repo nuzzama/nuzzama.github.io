@@ -2,13 +2,8 @@
 layout: page
 title: "Nahid Uzzaman"
 ---
-<!-- template -->
-{{ /assets/img/prof_pic.jpg:img?width=250 alt='prof_pic' }}
 
-<!-- output -->
-<a href="/assets/img/prof_pic" width='250' height='YYY' alt='prof_pic'>
-
-![Sanzida](/assets/img/prof_pic.jpg)
+![Sanzida](/assets/img/prof_pic.jpg){:width="50%"}
 
 Ph.D. Candidate, Graduate Research and Teaching Assistant
 

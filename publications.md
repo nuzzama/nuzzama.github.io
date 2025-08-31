@@ -3,7 +3,7 @@ title: Publications
 ---
 -	N. Uzzaman and H. Bai, "Multiple Model Unscented Kalman Smoother for Improved Wind Estimation by a Quadcopter," 2025 AIAA Aviation Forum and Ascend, Las Vegas, NV, USA.
 
- 	[Paper: Multiple Model Unscented Kalman Smoother for Improved Wind Estimation by a Quadcopter]([https://ieeexplore.ieee.org/abstract/document/10644401/](https://arc.aiaa.org/doi/abs/10.2514/6.2025-3631))
+ 	[Paper: Multiple Model Unscented Kalman Smoother for Improved Wind Estimation by a Quadcopter](https://arc.aiaa.org/doi/abs/10.2514/6.2025-3631)
 
 -	N. Uzzaman and H. Bai, "A novel variational Bayesian adaptive Kalman filter for systems with unknown state-dependent noise covariance matrices," 2024 American Control Conference (ACC), Toronto, ON, Canada, 2024, pp. 1192-1197, doi: 10.23919/ACC60939.2024.10644401.
 

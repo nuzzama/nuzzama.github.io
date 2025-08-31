@@ -16,9 +16,9 @@ Subtitle: nahid.uzzaman@okstate.edu
 
 
 ## Education
-- PhD in Mechanical Engineering | Oklahoma State University (_December 2025_)
-- Master of Science in Mechanical Engineering | Kansas State University, Manhattan, KS (_August 2019_)
-- Bachelor of Science in Mechanical Engineering | Military Institute of Science and Technology (MIST), Dhaka, Bangladesh (_January 2016_)
+- PhD in Mechanical Engineering, Oklahoma State University (_December 2025_)
+- Master of Science in Mechanical Engineering, Kansas State University, Manhattan, KS (_August 2019_)
+- Bachelor of Science in Mechanical Engineering, Military Institute of Science and Technology (MIST), Dhaka, Bangladesh (_January 2016_)
 
 ## Research Experience
 ### PhD Research, Oklahoma State University	(_August 2020 – present_)

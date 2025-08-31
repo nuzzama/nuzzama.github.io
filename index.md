@@ -3,7 +3,7 @@ layout: page
 title: "Nahid Uzzaman"
 ---
 
-![Sanzida](/assets/img/prof_pic.jpg){:height="700px" width="400px"}
+![Sanzida](/assets/img/prof_pic.jpg)
 
 Ph.D. Candidate, Graduate Research and Teaching Assistant
 

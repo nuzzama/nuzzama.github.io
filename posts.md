@@ -18,8 +18,8 @@ It was a fantastic experience to share my research, engage in insightful discuss
 ![Sanzida](/assets/img/post4.jpg)
 
 I feel very glad to announce that our paper on "A novel variational Bayesian adaptive Kalman filter for systems with unknown state-dependent noise covariance matrices" has been published in the American Control Conference (ACC), 2024. I would like to thank my advisor Dr. He Bai for his continued support. 
-Please find our work here: [Paper: A novel variational Bayesian adaptive Kalman filter for systems with unknown state-dependent noise covariance matrices](https://ieeexplore.ieee.org/abstract/document/10644401/)
 
+Please find our work here: [Paper: A novel variational Bayesian adaptive Kalman filter for systems with unknown state-dependent noise covariance matrices](https://ieeexplore.ieee.org/abstract/document/10644401/)
 
 ## Attended the ACC 2023
 ![Sanzida](/assets/img/post2.jpg)
@@ -27,6 +27,8 @@ Please find our work here: [Paper: A novel variational Bayesian adaptive Kalman 
 Excited to have presented our paper at the ACC 2023-64th American Control Conference!
 
 It was an honor to be part of this event, which is considered one of the biggest and most prestigious conferences in the control community. I had the pleasure of connecting with brilliant researchers from both industry and academia, exchanging ideas and insights. Thank you to everyone who made this experience unforgettable! 
+
+Please find our work here: [Paper: Dynamic covariance prediction using variational Wishart processes with uncertain inputs](https://ieeexplore.ieee.org/abstract/document/10155969/)
 
 ## Recieved 'Best Poster Presentation' award 
 ![Sanzida](/assets/img/post3.jpg)

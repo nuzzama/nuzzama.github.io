@@ -4,10 +4,7 @@ title:
 ---
 
 ## Attended the AIAA Aviation Forum 2025
-![Sanzida](/assets/img/post1.gif)
-![Sanzida](/assets/img/post13.jpg)
-![Sanzida](/assets/img/post11.jpg)
-![Sanzida](/assets/img/post12.jpg)
+![Sanzida](/assets/img/post1.jpg)
 
 Last week, I had the opportunity to attend the AIAA Aviation Forum 2025 in Las Vegas, which was co-located with AIAA ASCEND 2025—together making for a vibrant and impactful event.
 

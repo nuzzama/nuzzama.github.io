@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "Posts"
 ---
 
 ## Attended the AIAA Aviation and Ascend Forum 2025

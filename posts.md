@@ -18,7 +18,7 @@ It was a fantastic experience to share my research, engage in insightful discuss
 ![Sanzida](/assets/img/post4.jpg)
 
 I feel very glad to announce that our paper on "A novel variational Bayesian adaptive Kalman filter for systems with unknown state-dependent noise covariance matrices" has been published in the American Control Conference (ACC), 2024. I would like to thank my advisor Dr. He Bai for his continued support. 
-Please find our work here: (https://par.nsf.gov/servlets/purl/10558708)
+Please find our work here: [Paper: A novel variational Bayesian adaptive Kalman filter for systems with unknown state-dependent noise covariance matrices](https://ieeexplore.ieee.org/abstract/document/10644401/)
 
 
 ## Attended the ACC 2023

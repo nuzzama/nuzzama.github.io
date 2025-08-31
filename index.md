@@ -4,17 +4,17 @@ title: Nahid Uzzaman
 ---
 ![Sanzida](/assets/img/prof_pic.jpg)
 
-**Ph.D. Candidate, Graduate Research and Teaching Assistant**
+Ph.D. Candidate, Graduate Research and Teaching Assistant
 
-**Control, Robotics and Automation Laboratory (CoRAL)**
+Control, Robotics and Automation Laboratory (CoRAL)
 
-**Department of Mechanical and Aerospace Engineering**
+Department of Mechanical and Aerospace Engineering
 
-**Oklahoma State University**
+Oklahoma State University
 
-**ATRC-324, Stillwater, OK 74078**
+ATRC-324, Stillwater, OK 74078
 
-**nahid.uzzaman@okstate.edu**
+nahid.uzzaman@okstate.edu
 
 ## About Me
 •	PhD student in Mechanical Engineering, research work in control, estimation, and machine learning

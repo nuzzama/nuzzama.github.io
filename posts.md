@@ -13,6 +13,7 @@ I was honored to present my paper:
 A heartfelt thank you to my advisor, Dr. He Bai, for his continuous support and guidance throughout this work.
 
 It was a fantastic experience to share my research, engage in insightful discussions, and connect with brilliant minds from both academia and industry. I'm truly grateful for the opportunity to contribute, learn, and be inspired.
+
 Please find our work here: [Paper: Multiple Model Unscented Kalman Smoother for Improved Wind Estimation by a Quadcopter](https://arc.aiaa.org/doi/abs/10.2514/6.2025-3631)
 
 ## Published paper in ACC 2024

@@ -6,17 +6,11 @@ title:
 
 Ph.D. Candidate, Graduate Research and Teaching Assistant
 
-Control, Robotics and Automation Laboratory (CoRAL)
-
 Department of Mechanical and Aerospace Engineering
 
-Oklahoma State University
+Oklahoma State University, OK, USA
 
-ATRC-324, Stillwater, OK 74078
-
-nahid.uzzaman@okstate.edu
-
-nahiduzzaman.eefat@gmail.com
+Email: nahiduzzaman.eefat@gmail.com
 
 ## About Me
 •	PhD student in Mechanical Engineering, research work in control, estimation, and machine learning

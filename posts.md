@@ -17,7 +17,13 @@ It was a fantastic experience to share my research, engage in insightful discuss
 ## Attended the ACC 2023
 ![Sanzida](/assets/img/post2.jpg)
 
-
 Excited to have presented our paper at the ACC 2023-64th American Control Conference!
 
 It was an honor to be part of this event, which is considered one of the biggest and most prestigious conferences in the control community. I had the pleasure of connecting with brilliant researchers from both industry and academia, exchanging ideas and insights. Thank you to everyone who made this experience unforgettable! 
+
+## Recieved 'Best Poster Presentation' award 
+![Sanzida](/assets/img/post2.jpg)
+
+I am pleased to share that I got the 'Best Poster Presentation' award at the 4th Annual MAE Graduate Research Symposium. 
+
+This event is organized by Oklahoma State University with the collaboration of other regional Universities. I presented a poster with my work on state-dependent noise covariance prediction using the Wishart process, which is a Bayesian Machine Learning technique for predicting positive definite matrices. 

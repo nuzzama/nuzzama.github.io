@@ -15,6 +15,7 @@ Oklahoma State University
 ATRC-324, Stillwater, OK 74078
 
 nahid.uzzaman@okstate.edu
+nahiduzzaman.eefat@gmail.com
 
 ## About Me
 •	PhD student in Mechanical Engineering, research work in control, estimation, and machine learning

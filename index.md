@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nahid Uzzaman   
+title: 
 ---
 ![Sanzida](/assets/img/prof_pic.jpg)
 

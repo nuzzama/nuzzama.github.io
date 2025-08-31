@@ -13,3 +13,11 @@ I was honored to present my paper:
 A heartfelt thank you to my advisor, Dr. He Bai, for his continuous support and guidance throughout this work.
 
 It was a fantastic experience to share my research, engage in insightful discussions, and connect with brilliant minds from both academia and industry. I'm truly grateful for the opportunity to contribute, learn, and be inspired.
+
+## Attended the ACC 2023
+![Sanzida](/assets/img/post2.jpg)
+
+
+Excited to have presented our paper at the ACC 2023-64th American Control Conference!
+
+It was an honor to be part of this event, which is considered one of the biggest and most prestigious conferences in the control community. I had the pleasure of connecting with brilliant researchers from both industry and academia, exchanging ideas and insights. Thank you to everyone who made this experience unforgettable! 

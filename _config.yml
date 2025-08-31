@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "publications.md", title: Publications}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:nahid.uzzaman@okstate.edu"}
+  - {title: Mail, icon: envelope, url: "mailto:nahiduzzaman.eefat@gmail.com"}
   - {title: Google, icon: google, url: "https://scholar.google.com/citations?hl=en&authuser=1&user=mvOCWv4AAAAJ"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/nahid-uzzaman-a3a1a0150/"}
 

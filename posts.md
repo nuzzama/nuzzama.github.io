@@ -15,6 +15,7 @@ A heartfelt thank you to my advisor, Dr. He Bai, for his continuous support and 
 It was a fantastic experience to share my research, engage in insightful discussions, and connect with brilliant minds from both academia and industry. I'm truly grateful for the opportunity to contribute, learn, and be inspired.
 
 ## Published paper in ACC 2024
+![Sanzida](/assets/img/post4.jpg)
 
 I feel very glad to announce that our paper on "A novel variational Bayesian adaptive Kalman filter for systems with unknown state-dependent noise covariance matrices" has been published in the American Control Conference (ACC), 2024. I would like to thank my advisor Dr. He Bai for his continued support. 
 Please find our work here: https://par.nsf.gov/servlets/purl/10558708
